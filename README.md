@@ -31,6 +31,8 @@ This project implements a Naive Bayes classifier from scratch to classify mushro
 
 ```
 
+- Dataset Source: [Mushroom Classification](https://www.kaggle.com/datasets/uciml/mushroom-classification)
+
 ## Day 3 => IMDB Sentiment Analysis
 
 ```
@@ -46,3 +48,5 @@ This project builds a sentiment analysis model to classify movie reviews as posi
   - sentiment (positive/negative)
 
 ```
+
+- Dataset Source: [IMDB Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)

@@ -1,0 +1,43 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large dataset files (optional - adjust as needed)
+*.csv
+*.txt
+*.json
+
+# Logs
+*.log
+
+# Model files
+*.pkl
+*.joblib
+
+# Temporary files
+*.tmp
+*.temp
+
+# NLTK data (optional)
+nltk_data/
